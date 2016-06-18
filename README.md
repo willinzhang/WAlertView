@@ -1,2 +1,0 @@
-# WAlertView
-CustomerAlertView
